@@ -1,5 +1,5 @@
-<strong>html-css</strong>
+# html-css
+ Curso HTMLs e CSS3
 
-Curso HTMLs e CSS3
-
-Estou aprendendo a criar sites e agora vou aprender a gerenciar meus repositórios.
+ Estou aprendendo a criar sites e agora vou aprender a gerenciar meus repositórios.
+ 
