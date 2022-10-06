@@ -1,0 +1,100 @@
+h - cabeçalho
+hr - linha em branco
+p - parágrafos
+
+
+mostrar a tag no código &lt;TAG&gt;
+lt - LESS THAN
+gt - GREATER THAN
+
+
+emojipedia - site para emojis
+"&#x" e o código do emoji
+
+
+
+PEGAR IMAGENS
+
+google imagens
+ferramentas
+licenças comerciais e outras
+
+unsplash
+pexels
+
+IMAGENS
+
+JPG - alta compactação
+PNG - permite transparência
+
+
+imagem - redimensionar/escalar
+menor a compressão mais leve fica o site
+
+colocar imagens em outras pastas
+ctrl+espaço - pasta - imagem
+
+
+ÍCONE DE FAVORITO
+
+iconarchive
+favicon.io
+
+colocar ícone
+link.favicon - ctrl + espaço
+
+CRIAR TÍTULOS
+
+h1 até h6
+criar parágrafos random - lorem
+
+
+TAG OBSOLETA
+
+SITE W3C pra saber quais estão
+
+
+ctrl + shift + P = coloca qualquer termo entre tags
+após selecionar o termo procura a tag em WRAP WITH ABBREVIATION
+
+pre - pré-formatação - deixa o código fonte mais arrumado
+code - código-fonte
+q - citação de alguém
+blockquote - citação de autor
+cite - referência ao livro/documento do autor
+abbr - abreviações - envelopa o termo + ctrl+shift+p + abbr + coloca o significado da sigla
+
+LISTAS
+
+ol - listas ordenadas
+li - itens da lista
+ol type - escolha de tipo de numeração
+ol type="..." start="escolha o numero de inicio"
+
+
+LINK EXTERNOS
+
+envelopar - shift+ctrl+p - TAG "a href=..."
+link externo - target="_blank" rel="external"
+
+LINK INTERNO
+
+envelopar - shift+ctrl+p - TAG "a href=..."
+dentro de "href=..." segura ctrl+espaço e abre as páginas internas
+
+Próxima página - rel="next"
+Página anterior - rel="prev"
+Não recomendar a próxima página - rel="nofollow"
+
+LINK EM PASTA
+ctrl+shift+p - TAG "a" - ctrl+espaço - abre a pasta - escolhe o arquivo
+target="_self" ' abre numa aba nova
+
+LINK ANTERIOR
+../ - abre as opções
+
+IMAGEM DINÂMICA
+
+tag picture - img + ctrl+espaço
+acessar outras imagens - source.media
+Sempre começa com a maior imagem e vai pra menor

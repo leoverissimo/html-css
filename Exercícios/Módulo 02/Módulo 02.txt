@@ -1,0 +1,113 @@
+
+
+Psicologia das cores
+
+Pesquisar sobre
+
+
+CORES NO CODE
+
+Representação por nomes - só colocar o nome da cor
+
+Representação por códigos hexadecimais - quatro digitos  e duas letras
+dois primeiros vermelho - seguintes verde - últimos azul
+
+Decimal: 0 1 2 3 4 5 6 7 8 9
+Hexadecimal: 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+Representação em RGB (red, green, blue)
+código rgb e entre parênteses a quantidade na mesma ordem da sigla
+
+Representação por HSL (hue, saturation, luminosity)
+código hsl e entre parênteses a quantidade na mesma ordem da sigla
+o primeiro é número real, os outros dois são porcentagens
+
+
+CIRCULO CROMÁTICO
+
+primárias - amarelo, vermelho, azul
+secundárias - laranja, violeta, verde
+terciárias - no nome vai primeiro a cor primária, depois a secundária
+amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado
+vermelho-arroxeado, azul-arroxeado, azul-esverdeado
+
+paleta de cores de 3 a 5 cores mais branco e preto
+
+CORES COMPLEMENTARES
+
+sempre escolher o outro lado da paleta
+
+CORES ANÁLOGAS
+
+sempre escolher cores ao lado na paleta
+
+CORES ANÁLOGAS RELACIONADAS
+
+escolhe duas que estejam juntas, pula a terceira e escolhe a quarta
+
+CORES INTERCALADAS
+
+escolhe uma, pula a segunda, escolhe a terceira, pula a quarta e escolhe a quinta
+
+CORES TRIÁDICAS
+
+escolhe uma, pula três, escolhe a quarta, pula três, escolhe a última
+
+CORES EM QUADRADO
+
+escolhe uma, pula duas, escolhe, pula duas, escolhe, pula duas, escolhe
+
+CORES TETRÁDICAS
+
+escolhe uma e pega a complementar, escolhe outra e pega a complementar
+
+CORES MONOCROMÁTICAS
+
+escolhe a cor e muda saturação e luminosidade para conseguir quatro cores
+efeito degradê
+
+
+color.adobe.com - paleta de cores
+puxa imagem e o site monta a paleta
+
+paletton.com - monta layouts de acordo com cores escolhidas
+
+coolors.co - sugestões de paletas
+
+Pegar cor do navegador - extensão Colorzilla
+seleciona e escolhe a cor - enter - copia e cola no VSC
+
+* - configuração global de CSS
+
+É possível colocar a porcentagem da cor que eu quero no degradê
+coloca a % desejada depois do código da cor no degradê
+
+SAFE FONT COMBINATIONS
+colocar mais de uma fonte no site no caso de algum dispositivo não ter
+a fonte escolhida como principal
+
+web safe font combinatios - google pra descobrir as combinações
+
+RECOMENDAÇÃO OFICIAL DE MEDIDAS
+
+ABSOLUTA - px
+RELATIVA - em
+
+utilizando EM a letra se adapta melhor a diferentes dispositivos
+
+descobrir a fonte se usa o NINJA FONTS
+
+DESCOBRIR FONTES EM IMAGENS
+
+whatfontis.com
+fontsquirrel.com
+myfonts.com
+
+SELETORES
+
+id = único
+class = vários
+
+PLANEJAMENTO DE SITE
+
+mockflow.com
