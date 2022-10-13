@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de iframes</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        iframe#tela {
+            width: 95vh;
+            height: 400px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Faça uma escolha</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam neque delectus reiciendis provident nisi eum cupiditate sunt, sit facere quia modi quod nostrum magnam maiores? Voluptatem aut quam tempore ullam.</p>
+
+    <ul>
+        <li><a href="paginas-extras/pag001.html" target="frame">Primeira página</a></li>
+        <li><a href="paginas-extras/pag002.html" target="frame">Segunda página</a></li>
+        <li><a href="paginas-extras/pag003.html" target="frame">Terceira página</a></li>
+    </ul>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere esse aspernatur atque dolore autem expedita iste aliquam temporibus maiores earum ut nostrum, asperiores cum reiciendis corrupti, magnam, delectus omnis aliquid. Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit impedit exercitationem at dolorem. Et voluptates voluptas laboriosam aspernatur repellendus tempora quaerat minus eaque, quia totam eveniet repudiandae! Nobis, unde reiciendis.</p>
+
+    <iframe id="tela" name="frame" srcdoc="<h1>Escolha uma das opções acima</h1><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere esse aspernatur atque dolore autem expedita iste aliquam temporibus maiores earum ut nostrum, asperiores cum reiciendis corrupti, magnam, delectus omnis aliquid.</p><img src='imagens/instagram'>">
+        <p>Infelizmente seu navegador não é compatível.</p>
+    </iframe>
+
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae quasi odio minus reiciendis unde, accusamus repellendus error esse porro, enim fugiat deleniti magni nostrum dignissimos dolorum. Animi quasi commodi vitae. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum sed laboriosam fugit ipsum, harum cupiditate? Distinctio voluptas illo quasi expedita pariatur asperiores omnis, iure, eos nemo assumenda dolores, hic quaerat.</p>
+</body>
+</html>
